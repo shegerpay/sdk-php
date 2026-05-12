@@ -1,0 +1,9 @@
+{
+  "name": "shegerpay/sdk",
+  "description": "Official PHP SDK for ShegerPay",
+  "version": "2.2.0",
+  "type": "library",
+  "license": "MIT",
+  "require": { "php": ">=7.4" },
+  "autoload": { "psr-4": { "ShegerPay\\": "src/" } }
+}
