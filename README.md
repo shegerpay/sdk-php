@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="ShegerPay" width="200" /></p>
+
 # ShegerPay PHP SDK
 
 Official PHP SDK for ShegerPay — verify Ethiopian bank payments (CBE, Telebirr, BOA, Awash).
